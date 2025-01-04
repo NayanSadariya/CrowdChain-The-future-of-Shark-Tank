@@ -1,6 +1,6 @@
 # Crowd Chain
 
-Crowd Chain is the future of Shark Tank, offering a platform that connects investors with project creators while ensuring transparency, fairness, and legal accountability. Our platform leverages blockchain technology and government-approved e-contracts to foster trust and security among users.
+I am proud to share that Crowd Chain is a future on Shark Tank project! The idea behind Crowd Chain is to break the barriers of traditional crowdfunding by creating a permissionless platform where everyone can be a Shark. Unlike the limited 5 investors on Shark Tank, we’ve built a system where anyone can participate as an investor and help fund innovative ideas.
 
 ## Key Features
 
