@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "antd": "^5.22.6",
+    "firebase": "^11.1.0",
+    "git": "^0.1.5"
+  },
+  "devDependencies": {
+    "@types/firebase": "^3.2.3"
+  }
+}
